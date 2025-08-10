@@ -1,0 +1,1 @@
+🇸.🇳.🇺🗄️💾️ The official source repository for the SNU Evidence Locker module, which is used to store illegal/rule breaking content uploaded by users. It is safely stored for strict administrator and/or law enforcement access.
